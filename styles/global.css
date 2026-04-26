@@ -50,9 +50,7 @@ img {
   margin-inline: auto;
 }
 
-main{
-  margin-top: 40px;
-}
+
 
 /* utility-first */
 .grid {
@@ -73,4 +71,8 @@ main{
   letter-spacing: 0.04em;
   color: var(--text-color-primary);
   box-shadow: 0px 4px 16px #02061740;
+}
+main{
+  margin-top: 40px;
+  gap: 80px;
 }
